@@ -2,7 +2,7 @@
     <img src="https://media.discordapp.net/attachments/1035798463377588254/1173332232560185415/pic.png?ex=656391cb&is=65511ccb&hm=f101544d2690b47ce69f03b4c5e23744b1d561db658de2d40f1258b0c8ec859d&=" alt="Logo">
 </h1>
 <h2 align="center">
-    CS350: MIPS Hamming Encoder & Decoder | By Scarlett & Taylor
+    CS350: MIPS Hamming Encoder & Decoder | By Scarlett
 </h2>
 
 <h3>
